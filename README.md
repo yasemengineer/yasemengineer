@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yasemengineer
+- 👀 I’m interested in reading and coding.
+- 🌱 I’m currently learning Java
+- 📫 How to reach me "kirtepeyaseminbuse@gmail.com"
